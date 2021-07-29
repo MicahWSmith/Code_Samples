@@ -1,0 +1,53 @@
+{
+    "template": "data_ma_youtube_slider_html",
+    "wid": "100",
+    "widget": {
+        "dac_widget": {
+            "header": {
+                "id": "",
+                "template": "ma_youtube_slider_html"
+            },
+            "content": {
+             "slot_last_update_time": "20200826184610",
+             "slot_timezone": "PST",
+             "bg_color": "3d6cdc",
+             "header_text": "My Youtube Videos",
+             "header_text_font_color":"fafcfe",
+             "header_text_font":"Cambria",
+             "header_icon": "",
+             "initial_display_state":"chevron_no",
+             "slide_opacity":"100",
+             "slide_bg_color":"",
+             "s1_youtube_video_id": "https://www.youtube.com/watch?v=NH9kwje2k8U",
+             "s1_video_desc": "What is Apple's M1 chip and it's architecture.",
+             "s1_video_desc_font_color":"000000",
+             "s1_video_desc_font":"Cambria",  
+             "s1_volume": 5,
+             "s1_cc": true,
+             "s2_youtube_video_id": "https://www.youtube.com/watch?v=0qq2MACXNWk",
+             "s2_video_desc": "Japanese Souffle Cheesecake [Super Fluffy & Jiggly]",
+             "s2_video_desc_font_color":"000000",
+             "s2_video_desc_font":"Cambria",  
+             "s2_volume": 5,
+             "s2_cc": true,
+             "s3_youtube_video_id": "https://www.youtube.com/watch?v=-J2WggXWq70",
+             "s3_video_desc": "How to press space bar",
+             "s3_video_desc_font_color":"000000",
+             "s3_video_desc_font":"Cambria",  
+             "s3_volume": 5,
+             "s3_cc": true,
+             "media_asset_path": "http://localhost/ds_widget2/media/",
+             "og_title": "",
+             "og_description": "",
+             "og_image": null,
+             "zone_w": "1080",
+             "zone_h": "1750"
+            }
+        }
+    },
+    "widgetAsset": {
+       
+    },
+    "feed": null,
+    "feedAsset": null
+}
